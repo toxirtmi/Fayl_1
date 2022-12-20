@@ -1,0 +1,17 @@
+1. 1 dan n gacha bo`lgan sonlar ichida nechta 7 qatnashganini toping.
+2. sonning tub yoki murakkab ekanligini aniqlovchi dastur yozing
+  Input: 23
+  Output: tub
+  Input: 25
+  Output: murakkab
+3. 1 dan n gacha bo`lgan tub sonlarni chiqarish kerak.
+ Input: 10
+ Output: 2,3,5,7
+4.while bilan siz son o`ylang kompyuter uni topsin va necha urinishda topganini chiqarib bersin
+  Input: siz o`yladiz: 5
+  Output: kompyuter 4 marta topdi
+5. Kiritilgan sonning berilgan o`rindagi raqamini toping
+  Input: son: 3568
+         o'rni: 2
+  Output: 6   ( turgan o`rni oxirdan hisobalanadi....)
+   

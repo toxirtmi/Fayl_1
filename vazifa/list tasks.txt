@@ -1,0 +1,33 @@
+List misollar
+1. Listdagi "a" harfi bor elementlarni chiqaring
+2. Listdagi a harfi bor elementni o`chiring
+3. sonlardan iborat list bor. Listning barcha elementlari yig`indisini toping
+4. sonlardan iborat list bor. Listning barcha elementlari ko`paytmasini toping
+5. Listda agar ikkita bir xil element bo`lsa uni o`chirib tashlash kerak
+6. Agar ikkita listda kamida bitta umumiy elementi bo`lsa True chiqsin. bo`lmasa false
+7.Listdagi faqat juft sonlarni o`chirib qolganini ekranga chiqarish kerak.
+8.Listdan ixtiyoriy elementni chiqaradigan dastur tuzing
+9. sonlardan iborat list bor. Listdagi eng katta elementni toping.
+10.sonlardan iborat list bor. Listdagi eng kichik elementni toping.
+11.sonlardan iborat list bor. Listdagi ikkinchi eng katta elementni toping.
+12.sonlardan iborat list bor. Listdagi ikkinchi eng kichik elementni toping.
+13.  son = [1, 2, 3, 4, 5, 6, 7] list bor 
+shuni [1, 4, 9, 16, 25, 36, 49] shu korinishida chiqarish kerak qonuniyatni ham topinglar
+14. list = ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
+
+eng ichkaridagi listga   h , i , j ni qo`shish kerak
+15. Matn berilgan matndagi so`zlar ichidan  xoxlagan uzunlikdagisini chiqarsin 
+masalan  5 ta harfli so`z desak matndagi hamma 5 ta  harfli so`zlarni chiqarib bersin
+16. stringda malumot bor uzun gap qanaqadir. uni ichidagi sozlarning har qaysisi nechtaligini chiqarish kerak.
+Masalan:  a="salom python assalom python salom dunyo" 
+Chiqishi kerak:              salom 2 ta
+                              python 2 ta
+                               assalom 1 ta
+                                dunyo  1 ta
+17. listni sort metodidan foydalanmay kichigidan kattasigacha chiqarish kerak.
+18. mylist = ['a','b','c']
+   elementlarni turli xil kombinatsiyani yangi list chiqarish kerak
+  Output: ['ab','ac','bc']
+19. fibonacci sonlarining 13 - sini toping
+20. matn kiritiladi undagi eng uzun sozni ekranga chiqarish kerak
+a = 'salom' , 'assaslom', 'alik'

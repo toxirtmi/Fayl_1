@@ -1,0 +1,28 @@
+1. restart so`zini  resta$t holatiga keltiring.
+2. 'abc', 'xyz' ikkita string berilgan uni 'xyc abz' shu holatga keltirish kerak.
+3. soz kiritaman va istalgan son kiritaman shu sondagi indexdagi belgini ochirib
+  sozni chiqarsin
+4. stringdagi birinchi va oxirgi elementining o`rnini almashtirib chiqaring
+5. agar online magazindan kiyim olsangiz va butun narx 100000 dan ko`p bo`lsa sizga 10% skidka qilib bersin .
+agar 50000 dan ko`p bo`lsa sizga 5% skidka qilib bersin. agar undan kam bo`lsa o`zini  narxida bersin.
+6.. talaba oraliq testni yechdi agar ballarining foizi 60% dan past bo`lsa yakuniy imtihonga qo`yilmasin agar 60% dan yuqori bo`lsa qo`yilsin.
+input bilan nechta savol borligi va nechta yechgani kiritilsin
+7. random orqali kompyuter son o`ylasin men input bilan son kiritsam tekshirib topgan topmaganimni aytsin..
+8. 7  topshiriq davomi sifatida agar katta son kiritsam katta kiritding desin,
+kichkina son kiiritsam kichkina desin
+9.String berilga myStr = “salom-bir-suv”
+  Natija  "molas-rib-vus"   ## hozircha shartmas
+10. Oy va kun kiritiladi bu yilning nechanchi kuni ekanligini topish kerak.
+11. oy va kun kiritiladi bu haftaning qaysi kuni ekanligini topish kerak(1-yanvar dushanba)
+12. son kiritsak uni so`zga aylantirib berishi kerak.
+  masalan 23 ----  yigirma uch ( faqat 1 dan 100 gacha..)    
+13. 3 ta son kiritiladi o`rtancha sonni topish kerak.
+14. shaxmat doskasidagi otning yura olishini tekshirish kerak.
+15. har yili dasturchilar kuni yilning 256-kunida nishonlanadi bu qaysi sana ekanligini toping
+
+17.   agar sozda katta harf bo`lsa katta harfi bor desin bolmasa yoq deysiz
+18. ism kiriitiladi ismni tekshirish  kerak bosh harfi kichik bo`lsa xato desin va son qatnashgan bo`lsa xato desin
+19. 1-999 oralig`idagi son kiritiladi. Uni " 2 xonali juft son ", " 3 xonali toq son " 
+yani necha xonali ekanligi va juft yoki toqligini chiqarsin
+20. uchta son berilgan A, B , C   A soni B va C dan qaysi biriga yaqinroq chiqarsin
+ 

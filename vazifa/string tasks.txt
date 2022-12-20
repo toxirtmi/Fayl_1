@@ -1,0 +1,35 @@
+String tasks
+
+1. input orqali son kiritiladi. Uni oxirgi raqamini chiqaruvchi dastur tuzing.
+ son = 123
+ Natija: 3
+2. input orqali son kiritiladi. Sonni teskarisini chiqaruvchi dastur tuzing.
+ son = 547
+ Natija: 745
+3. input orqali son kiritiladi. shu son o`zini kvadratidan qancha kam ekanligini topish kerak.
+ son = 5
+ Natija: 20    # chunki 5 ni kvadrati 25 , 5 25 dan 20 ga kam
+4. ikki xonali sonning birinchi raqamini aniqlang. 
+ Masalan 34 kiritsam 3 chiqsin.  56 kiritsam 5 chiqsin
+5.
+      s1 = "Ault "
+      s2 = "Kelly" ikkita string berilgan
+Natija     "AuKellylt"    bo`lishi kerak..
+
+6.
+str1 = Emma-is-a-data-scientist
+shu stringni bo`laklarga ajratish kerak yani 
+Natija :  Emma is a data scientist 
+
+7. input  458.541315  bilan kiritsam
+458.54 shunaqa chiqarsin yani input bilan float tipidagi son kiritsam nuqtadan keyin ikkitasini olsin.
+
+8. 'abc', 'xyz' ikkita string berilgan uni 'xyc abz' shu holatga keltirish kerak.
+9. soz kiritaman va istalgan son kiritaman shu sondagi indexdagi belgini ochirib
+  sozni chiqarsin
+10.stringdagi birinchi va oxirgi elementining o`rnini almashtirib chiqaring
+11.String berilga myStr = “salom-bir-suv”
+  Natija  "molas-rib-vus"
+12. input bilan kiritilgan so`zni yarmigacha chiqarish kerak.
+13. Foydalanuvchi input orqali malumotlarini kiritadi  ularni to`plab chiqarish kerak.
+  Natija: Toshmatov Eshmat 20 yoshda Navoiy viloyatidan.

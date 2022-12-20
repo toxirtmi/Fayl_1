@@ -1,0 +1,74 @@
+# for loop tasks
+1. 1 dan n gacha bo`lgan toq sonlar yig`indisini toping
+2. 1 dan n gacha bo`lgan 3 ga bo`linadigan lekin 9 ga bo`linmidigan sonlar yig`indisini toping
+3. 1 dan n gacha bo`lgan sonlarni kvadratlari yig`indisini toping.
+4. sonni top o`yini:
+    computer son o`ylaydi random orqali. kiritib o`sha sonni topishimiz kerak.
+    5 ta imkoniyat bersin qayta kiritishimiz uchun topolmasak yutqazdingiz desin
+5. kiritilgan sozni teskari tartibda chiqarish kerak
+  Input : hello
+  Output : olleh
+6. kiritilgan sonni teskari qilish kerak
+   Input : 345
+   Output : 543  (Izoh: bu yerda son faqat int tipida bo`lishi kerak)
+7. 1 dan 100 gacha bo`lgan fibonacci sonlarini chiqarish
+   Fibonacci sonlari : 1 1 2 3 5 8 13 21 ...
+8. Kiritilgan satrda nechta harf , nechta son va nechta belgi borligini chiqarish kerak
+
+  Input: sa1m,0L
+  Output: 4 ta harf, 2 ta son, 1 ta belgi bor
+9. Kiritilgan Emailni tekshirish dasturini tuzamiz.
+  Input: python@mail.ru     
+  output: to'g'ri 
+  
+  input: @pythonmail.ru  
+  output: xato   ( shunga o`xshash yani email standartiga mos kelsa togri desin)
+10. karra jadvalini chiqarish.
+11. kiritilgan so'zning harflarini bitta katta harf bitta kichik harf qilib chiqarish kerak
+  input: dasturlash
+  output: dAsTuRlAsH
+12. kiritilgan matndagi katta harflar sonini chiqarish kerak.
+ input: PytHON
+ output: 4 ta
+13. kiritilgan sonning berilgan darajasini hisoblovchi dastur tuzing.
+
+  input: son: 3
+         darajasi: 4
+  output: 81
+14.input bilan kiriitilgan ixtiyoriy sozning unli harflarini kattaga o`girish kerak.
+  input: dastur
+  output: dAstUr
+15. factorialni hisoblovchi dastur tuzing:
+  input: 3!
+  output: 6  (factorial - bu 1 dan o`sha songacha bo`lgan sonlar ko`paytmasi)
+16. Kiritilgan so`zdagi eng ko`p qatnashgan harfni chiqaring.
+  input: pythonforloop
+  output: o harfi 4 marta qatnashgan
+17.kiritilgan so`zda alifbodagi nechta turli harfdan foydalanilgan.
+  input: assalom
+  output: 5 ta turli harfdan (a,o,s,l,m)
+18. password yani parol qo`yishni tekshirish kerak.
+    shartlar: 1. A-Z harflar bo`lishi shart
+              2. 0-9 gacha sonlar bo`lishi shart
+              3. @$# belgilari bo`lishi shart
+              4. eng kamida 6 ta belgi bo`lishi shart
+              5. eng ko`pi bilan 16 ta belgi bolishi mumkin
+
+19. korsatilganidek ekranga chiqaring
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+
+20.korsatilganidek ekranga chiqaring
+     *
+    **
+   ***
+  ****
+ *****
+******
